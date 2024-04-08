@@ -1,40 +1,50 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-		<title></title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
-		<meta name="apple-mobile-web-app-capable" content="yes" />
-		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-		<meta property="og:title" content="">
-		<meta property="og:description" content="">
-		<meta name="mobile-web-app-capable" content="yes" />
-		<meta property="og:image" content="preview.jpg">
-		<style type="text/css" title="Default">
-			/* fullscreen */
-			html {
-				height:100%;
-			}
-			body {
-				height:100%;
-				margin: 0px;
-				background: black;
-				color: white;
-				overflow:hidden; /* disable scrollbars */
-				-webkit-tap-highlight-color: rgba(0, 0, 0, 0); /* remove highlight on tab for iOS/Android */
-			}
-			/* fix for scroll bars on webkit & >=Mac OS X Lion */
-			::-webkit-scrollbar {
-				background-color: rgba(0,0,0,0.5);
-				width: 0.75em;
-				height: 0.75em;
-			}
-			::-webkit-scrollbar-thumb {
-				background-color:  rgba(255,255,255,0.5);
-			}
-		</style>
-	</head>
-	<body>
-    <img src="https://akceptor.github.io/360/BlackHoneyKulparkivska/preview.jpg"><a href="https://akceptor.github.io/360/BlackHoneyKulparkivska/index.html"></a>
-	</body>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Lviv is 360</title>
+	<style>
+		body { margin: 0; font-family: Arial, sans-serif; }
+		.header { background: #333; color: white; padding: 10px; text-align: center; }
+		.grid-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 10px; padding: 10px; }
+		.grid-item { position: relative; }
+		.grid-item img { width: 100%; height: auto; display: block; transition: transform 0.5s ease; }
+		.grid-item:hover img { transform: scale(1.1); }
+		.grid-item a { text-decoration: none; }
+		.grid-item-title { position: absolute; bottom: 10px; left: 10px; color: white; background: rgba(0, 0, 0, 0.5); padding: 5px; }
+		.footer { background: #333; color: white; padding: 10px; text-align: center; }
+		@media (max-width: 600px) {
+			.grid-container { grid-template-columns: 1fr; }
+		}
+	</style>
+</head>
+<body>
+
+<div class="header">
+	<h1>Lviv is 360</h1>
+</div>
+
+<div class="grid-container">
+	<!-- Repeat this block for each image -->
+	<div class="grid-item">
+		<a href="https://akceptor.github.io/360/BlackHoneyKulparkivska/index.html" title="Black Honey - Кульпарківська">
+			<img src="https://akceptor.github.io/360/BlackHoneyKulparkivska/preview.jpg" alt="Image Description">
+			<div class="grid-item-title">Black Honey - Кульпарківська</div>
+		</a>
+	</div>
+	<!-- End of image block -->
+</div>
+
+<div class="footer">
+	<p>
+		<a href="tel:+38050560-88-12"><i class="fas fa-phone"></i></a>
+		<a href="mailto:akceptor.kindle@gmail.com"><i class="fas fa-envelope"></i></a>
+		<a href="https://www.instagram.com/akceptor"><i class="fab fa-instagram"></i></a>
+	</p>
+	<p>Phone: +38(050)560-88-12 | Email: akceptor.kindle@gmail.com | Instagram: @Akceptor</p>
+</div>
+
+
+</body>
 </html>
