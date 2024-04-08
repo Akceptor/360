@@ -1,0 +1,99 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background: #333;
+    color: #333333;
+    padding: 10px;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 10px;
+    padding: 10px;
+}
+
+.grid-item {
+    position: relative;
+}
+
+.grid-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.5s ease;
+}
+
+.grid-item:hover img {
+    transform: scale(1.1);
+}
+
+.grid-item a {
+    text-decoration: none;
+}
+
+.grid-item-title, .grid-item-description {
+    position: absolute;
+    left: 0;
+    right: 0;
+    transition: transform 0.3s ease; /* Smooth transition for moving elements */
+}
+
+.grid-item-title {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+}
+
+.grid-item-title {
+    .grid-item:hover .grid-item-title {
+        top: 10px; /* Adjust as needed */
+        bottom: auto;
+    }
+}
+
+.grid-item-description {
+    bottom: 10px; /* Adjust as needed */
+    transform: translateY(100%); /* Initially hidden below the title */
+}
+
+.grid-item:hover .grid-item-description {
+    transform: translateY(0); /* Move into the title's original place */
+    color: #EEEEEE;
+    white-space: pre-wrap;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+}
+
+.footer {
+    background-color: #333;
+    color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+.header-image {
+    background: url('header.png') no-repeat center center;
+    background-size: cover;
+    height: 300px; /* You can adjust this value */
+}
+
+@media (max-width: 768px) {
+    .header-image {
+        height: 150px; /* Adjust for smaller screens */
+    }
+}
+
+@media (max-width: 600px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+}
