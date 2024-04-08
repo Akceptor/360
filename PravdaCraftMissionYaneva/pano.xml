@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20024" start="node1" appversion="7.0.9">
+  <panorama id="node1">
+    <input levelingpitch="0" width="1520" levelingroll="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="341.443">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata longitude="24.01151267" heading="341.443" streetviewlink="https://www.google.com/maps/@49.810328,24.0115127,3a,75y,341.44h/data=!3m4!1e1!3m2!1sAF1QipMyiPxyU9jFu_UmXtQNuuwp6dMBcuw2b5k4Tkoq!2e10" author="" tags="" customnodeid="" latitude="49.81032796" comment="" datetime="" title="Вхід до пабу" copyright="" nodeid="node1" info="" source="" description="Pravda Craft Mission - Янева"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" width="180" backgroundalpha="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" textalpha="1" enabled="1" background="1" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="Point01" tilt="0" distance="9.99102" target="$fwd" skinid="ht_node" pan="349.149" url="{node2}" title="Бар" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendcolor="0x000000" zoomspeed="2" delay="none" blendtime="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" width="1520" levelingroll="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="207.092">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata longitude="24.01149400" heading="207.092" streetviewlink="https://www.google.com/maps/@49.810417,24.011494,3a,75y,207.09h/data=!3m4!1e1!3m2!1sAF1QipNc6Gm4y4TPh5xDV8X_P9Nku5vooBu_h_LqpY8e!2e10" author="" tags="" customnodeid="" latitude="49.81041700" comment="" datetime="" title="Бар" copyright="" nodeid="node2" info="" source="" description="Pravda Craft Mission - Янева"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" width="180" backgroundalpha="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" textalpha="1" enabled="1" background="1" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="Point01" tilt="0" distance="9.99102" target="$fwd" skinid="ht_node" pan="34.798" url="{node1}" title="Вхід до пабу" description=""/>
+      <hotspot id="Point02" tilt="0" distance="7.3033" target="$fwd" skinid="ht_node" pan="266.931" url="{node3}" title="Кімната для гостей" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendcolor="0x000000" zoomspeed="2" delay="none" blendtime="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" width="1520" levelingroll="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" fov="140" tilt="90" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata longitude="24.01140600" heading="0" streetviewlink="https://www.google.com/maps/@49.81045,24.011406,3a,75y/data=!3m4!1e1!3m2!1sAF1QipPFO14rdStA3A3soGTGwNiO6Snt0iZOn4t6IB26!2e10" author="" tags="" customnodeid="" latitude="49.81045000" comment="" datetime="" title="Кімната для гостей" copyright="" nodeid="node3" info="" source="" description="Pravda Craft Mission - Янева"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" width="180" backgroundalpha="1" border="1" bordercolor="0x000000" height="20" textcolor="0x000000" textalpha="1" enabled="1" background="1" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="Point01" tilt="0" distance="7.3033" target="$fwd" skinid="ht_node" pan="-120.161" url="{node2}" title="Бар" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendcolor="0x000000" zoomspeed="2" delay="none" blendtime="1" zoomafterinfov="140" zoomin="0" type="crossdissolve" enabled="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomfov="40"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" zoomcentercursor="1" lockedkeyboard="0" speedwheel="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" author="" tags="" title="Pravda Craft Mission - Янева" copyright="" description="Pravda Craft Mission - Янева"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
