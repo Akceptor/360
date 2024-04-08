@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.0.9" apprev="20024" start="node5">
+  <panorama id="node5">
+    <input width="1520" overlap="1" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingroll="0" height="1520">
+      <level width="1520" preload="0" height="1520" predecode="0"/>
+      <level width="760" preload="0" height="760" predecode="0"/>
+      <level width="380" preload="1" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="4.24295">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata source="" copyright="" longitude="24.01763300" comment="" streetviewlink="https://www.google.com/maps/@49.8099725,24.017633,3a,75y,4.24h/data=!3m4!1e1!3m2!1sAF1QipOYNSzsyQkISr4BJj-AyRKbMJlQL-Xx3Er1eS-Z!2e10" latitude="49.80997246" nodeid="node5" heading="4.24295" author="" customnodeid="" title="Вхід до закладу" info="" tags="" description="Каворуб кав'ярня - Вхід до закладу" datetime=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label width="180" borderalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundalpha="1" borderradius="1" background="1" border="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" pan="12.6528" tilt="0" id="Point01" distance="3.41482" title="Місця для гостей" target="$fwd" description="" url="{node4}"/>
+      <hotspot skinid="ht_node" pan="-25.3662" tilt="0" id="Point02" distance="3.66422" title="Мотоцикл" target="$fwd" description="" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" delay="none" zoomfov="40" zoomout="0" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" zoomoutpause="1" zoomafteroutfov="40" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" zoomcentercursor="1" lockedkeyboard="0" contextvr="1" invertcontrol="1" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="1520" overlap="1" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingroll="0" height="1520">
+      <level width="1520" preload="0" height="1520" predecode="0"/>
+      <level width="760" preload="0" height="760" predecode="0"/>
+      <level width="380" preload="1" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="1.8744">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata source="" copyright="" longitude="24.01766225" comment="" streetviewlink="https://www.google.com/maps/@49.8100383,24.0176623,3a,75y,1.87h/data=!3m4!1e1!3m2!1sAF1QipPMgK29CbBzE_u8wO1LRcy6eZdkzJMuoTWWzgqk!2e10" latitude="49.81003832" nodeid="node1" heading="1.8744" author="" customnodeid="" title="Бар" info="" tags="" description="Каворуб кав'ярня - Бар" datetime=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label width="180" borderalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundalpha="1" borderradius="1" background="1" border="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" pan="177.886" tilt="0" id="Point01" distance="4.14761" title="Мотоцикл" target="$fwd" description="" url="{node3}"/>
+      <hotspot skinid="ht_node" pan="103.966" tilt="0" id="Point02" distance="2.75487" title="Кондитерка" target="$fwd" description="" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" delay="none" zoomfov="40" zoomout="0" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" zoomoutpause="1" zoomafteroutfov="40" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" zoomcentercursor="1" lockedkeyboard="0" contextvr="1" invertcontrol="1" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1520" overlap="1" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingroll="0" height="1520">
+      <level width="1520" preload="0" height="1520" predecode="0"/>
+      <level width="760" preload="0" height="760" predecode="0"/>
+      <level width="380" preload="1" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="43.649">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata source="" copyright="" longitude="24.01762471" comment="" streetviewlink="https://www.google.com/maps/@49.8100331,24.0176247,3a,75y,43.65h/data=!3m4!1e1!3m2!1sAF1QipM9T1sOIP62lWTeKtdqxwvZ3n58bT1bM-WyY7xc!2e10" latitude="49.81003313" nodeid="node2" heading="43.649" author="" customnodeid="" title="Кондитерка" info="" tags="" description="Каворуб кав'ярня - кондитерка" datetime=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label width="180" borderalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundalpha="1" borderradius="1" background="1" border="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" pan="-34.2589" tilt="0" id="Point01" distance="2.75487" title="Бар" target="$fwd" description="" url="{node1}"/>
+      <hotspot skinid="ht_node" pan="-134.728" tilt="0" id="Point02" distance="3.36945" title="Місця для гостей" target="$fwd" description="" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" delay="none" zoomfov="40" zoomout="0" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" zoomoutpause="1" zoomafteroutfov="40" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" zoomcentercursor="1" lockedkeyboard="0" contextvr="1" invertcontrol="1" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1520" overlap="1" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingroll="0" height="1520">
+      <level width="1520" preload="0" height="1520" predecode="0"/>
+      <level width="760" preload="0" height="760" predecode="0"/>
+      <level width="380" preload="1" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="87">
+      <start tilt="13.2599" projection="4" pan="59.6675" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata source="" copyright="" longitude="24.01765823" comment="" streetviewlink="https://www.google.com/maps/@49.8100011,24.0176582,3a,75y,87h/data=!3m4!1e1!3m2!1sAF1QipMIvSJDRCCFAkX_A6nJDA-pF6QF_SzcwDx7L7uK!2e10" latitude="49.81000111" nodeid="node3" heading="87" author="" customnodeid="" title="Мотоцикл" info="" tags="" description="Каворуб кав'ярня - Мотоцикл!" datetime=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label width="180" borderalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundalpha="1" borderradius="1" background="1" border="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" pan="172.239" tilt="0" id="Point01" distance="2.31785" title="Місця для гостей" target="$fwd" description="" url="{node4}"/>
+      <hotspot skinid="ht_node" pan="237.391" tilt="0" id="Point02" distance="3.66422" title="Вхід до закладу" target="$fwd" description="" url="{node5}"/>
+      <hotspot skinid="ht_node" pan="83.0119" tilt="0" id="Point03" distance="4.14761" title="Бар" target="$fwd" description="" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" delay="none" zoomfov="40" zoomout="0" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" zoomoutpause="1" zoomafteroutfov="40" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" zoomcentercursor="1" lockedkeyboard="0" contextvr="1" invertcontrol="1" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1520" overlap="1" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelingroll="0" height="1520">
+      <level width="1520" preload="0" height="1520" predecode="0"/>
+      <level width="760" preload="0" height="760" predecode="0"/>
+      <level width="380" preload="1" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="357.529">
+      <start tilt="11.424" projection="4" pan="47.2145" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata source="" copyright="" longitude="24.01762604" comment="" streetviewlink="https://www.google.com/maps/@49.8100028,24.017626,3a,75y,357.53h/data=!3m4!1e1!3m2!1sAF1QipORJl-MOt_RaokeAPwqH3qWpskGBIObB9GNVR-Z!2e10" latitude="49.81000284" nodeid="node4" heading="357.529" author="" customnodeid="" title="Місця для гостей" info="" tags="" description="Каворуб кав'ярня - Місця для гостей" datetime=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label width="180" borderalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1" bordercolor="0x000000" backgroundalpha="1" borderradius="1" background="1" border="1" height="20" backgroundcolor="0xffffff" enabled="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" pan="185.939" tilt="0" id="Point01" distance="3.41482" title="Вхід до закладу" target="$fwd" description="" url="{node5}"/>
+      <hotspot skinid="ht_node" pan="359.152" tilt="0" id="Point02" distance="3.36945" title="Кондитерка" target="$fwd" description="" url="{node2}"/>
+      <hotspot skinid="ht_node" pan="262.768" tilt="0" id="Point03" distance="2.31785" title="Мотоцикл" target="$fwd" description="" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" delay="none" zoomfov="40" zoomout="0" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" zoomoutpause="1" zoomafteroutfov="40" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control hideabout="0" zoomcentercursor="1" lockedkeyboard="0" contextvr="1" invertcontrol="1" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="Каворуб кавʼярня" tags="" description="Каворуб кавʼярня на Стрийській" author="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

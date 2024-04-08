@@ -3,6 +3,23 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Explore a 360 panorama tour of the city of Lviv.">
+	<meta name="keywords" content="360 photography, panoramic tour, virtual tour, Lviv, панорама, Львів, 360 тури ЛЬвів">
+
+	<!-- Open Graph / Facebook Meta Tags -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://yourwebsite.com/panoramatour">
+	<meta property="og:title" content="360 Panorama Tour of Lviv">
+	<meta property="og:description" content="Immersive 360 panoramic tours of Lviv.">
+	<meta property="og:image" content="https://yourwebsite.com/path-to-your-360-image.jpg">
+
+	<!-- Twitter Meta Tags -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:url" content="https://yourwebsite.com/panoramatour">
+	<meta name="twitter:title" content="360 Panorama Tour of Lviv">
+	<meta name="twitter:description" content="Explore the city of Lviv through our 360 panorama tour.">
+	<meta name="twitter:image" content="https://yourwebsite.com/path-to-your-360-image.jpg">
+
 	<title>Lviv is 360</title>
 	<style>
 		body { margin: 0; font-family: Arial, sans-serif; }
@@ -14,34 +31,54 @@
 		.grid-item a { text-decoration: none; }
 		.grid-item-title { position: absolute; bottom: 10px; left: 10px; color: white; background: rgba(0, 0, 0, 0.5); padding: 5px; }
 		.footer { background: #333; color: white; padding: 10px; text-align: center; }
+		.header-image {
+			background: url('https://akceptor.github.io/360/header.png') no-repeat center center;
+			background-size: cover;
+			height: 300px; /* You can adjust this value */
+		}
+
+		@media (max-width: 768px) {
+			.header-image {
+				height: 150px; /* Adjust for smaller screens */
+			}
+		}
+
 		@media (max-width: 600px) {
 			.grid-container { grid-template-columns: 1fr; }
 		}
 	</style>
+	<head>
+		<!-- Add this line inside the head section of your HTML -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	</head>
+
 </head>
 <body>
 
-<div class="header">
+<div class="header header-image">
 	<h1>Lviv is 360</h1>
 </div>
 
 <div class="grid-container">
-	<!-- Repeat this block for each image -->
 	<div class="grid-item">
 		<a href="https://akceptor.github.io/360/BlackHoneyKulparkivska/index.html" title="Black Honey - Кульпарківська">
 			<img src="https://akceptor.github.io/360/BlackHoneyKulparkivska/preview.jpg" alt="Black Honey - Кульпарківська">
 			<div class="grid-item-title">Black Honey - Кульпарківська</div>
 		</a>
 	</div>
-	<!-- End of image block -->
-	<!-- Repeat this block for each image -->
 	<div class="grid-item">
 		<a href="https://akceptor.github.io/360/PravdaCraftMissionYaneva/index.html" title="Pravda Craft Mission - Янева">
 			<img src="https://akceptor.github.io/360/PravdaCraftMissionYaneva/preview.jpg" alt="Pravda Craft Mission - Янева">
 			<div class="grid-item-title">Pravda Craft Mission - Янева</div>
 		</a>
 	</div>
-	<!-- End of image block -->
+	<div class="grid-item">
+		<a href="https://akceptor.github.io/360/KavorubStryjska/index.html" title="Каворуб - Стрийська">
+			<img src="https://akceptor.github.io/360/KavorubStryjska/preview.jpg" alt="Каворуб - Стрийська">
+			<div class="grid-item-title">Каворуб - Стрийська</div>
+		</a>
+	</div>
+
 </div>
 
 <div class="footer">
@@ -52,7 +89,6 @@
 	</p>
 	<p>Phone: +38 (050) 560-88-12 | Email: akceptor.kindle@gmail.com | Instagram: @Akceptor</p>
 </div>
-
 
 </body>
 </html>
