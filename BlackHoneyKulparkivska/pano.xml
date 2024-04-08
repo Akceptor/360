@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="20024" appversion="7.0.9">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" width="1520" height="1520" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" width="1520" height="1520"/>
+      <level preload="0" predecode="0" width="760" height="760"/>
+      <level preload="1" predecode="1" width="380" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="22.907" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata info="" latitude="49.82203193" source="" customnodeid="" streetviewlink="https://www.google.com/maps/@49.8220319,23.9923167,3a,75y,22.91h/data=!3m4!1e1!3m2!1sAF1QipMpK9L2M8B1x7DP1WuIR1hAJEkJs5Pz7zQJV1LE!2e10" description="Black Honey - Центральний вхід" heading="22.907" comment="" nodeid="node1" copyright="" tags="" title="Центральний вхід" longitude="23.99231672" datetime="" author=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" textcolor="0x000000" textalpha="1" border="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" width="180" height="20" background="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node3}" description="" pan="13.089" id="Point01" distance="2.78508" target="$fwd" skinid="ht_node" tilt="0" title="Всередині закладу"/>
+      <hotspot url="{node2}" description="" pan="87.934" id="Point02" distance="4.67229" target="$fwd" skinid="ht_node" tilt="0" title="Літній майданчик"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomfov="40" enabled="1" zoomspeed="2" delay="none" softedge="0" zoomout="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="40" zoomoutpause="1" type="crossdissolve"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" width="1520" height="1520" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" width="1520" height="1520"/>
+      <level preload="0" predecode="0" width="760" height="760"/>
+      <level preload="1" predecode="1" width="380" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="72.95" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata info="" latitude="49.82204967" source="" customnodeid="" streetviewlink="https://www.google.com/maps/@49.8220497,23.9922577,3a,75y,72.95h/data=!3m4!1e1!3m2!1sAF1QipPThGiGrdKLPh9RhdxhJS8qm5Z1Od_xXkqStPhZ!2e10" description="Black Honey - Літній майданчик" heading="72.95" comment="" nodeid="node2" copyright="" tags="" title="Літній майданчик" longitude="23.99225768" datetime="" author=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" textcolor="0x000000" textalpha="1" border="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" width="180" height="20" background="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node1}" description="" pan="-42.0229" id="Point01" distance="4.67229" target="$fwd" skinid="ht_node" tilt="0" title="Центральний вхід"/>
+      <hotspot url="{node5}" description="" pan="43.3221" id="Point02" distance="3.97319" target="$fwd" skinid="ht_node" tilt="0" title="Вид з вікна"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomfov="40" enabled="1" zoomspeed="2" delay="none" softedge="0" zoomout="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="40" zoomoutpause="1" type="crossdissolve"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" width="1520" height="1520" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" width="1520" height="1520"/>
+      <level preload="0" predecode="0" width="760" height="760"/>
+      <level preload="1" predecode="1" width="380" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="18.2619" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata info="" latitude="49.82205661" source="" customnodeid="" streetviewlink="https://www.google.com/maps/@49.8220566,23.9923233,3a,75y,18.26h/data=!3m4!1e1!3m2!1sAF1QipOpd6POHKaK8dLeS7R769KAzaZM_jy5ulq9DdFd!2e10" description="Black Honey - Всередині закладу" heading="18.2619" comment="" nodeid="node3" copyright="" tags="" title="Всередині закладу" longitude="23.99232334" datetime="" author=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" textcolor="0x000000" textalpha="1" border="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" width="180" height="20" background="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node1}" description="" pan="188.444" id="Point01" distance="2.78508" target="$fwd" skinid="ht_node" tilt="0" title="Центральний вхід"/>
+      <hotspot url="{node4}" description="" pan="14.0365" id="Point02" distance="4.00166" target="$fwd" skinid="ht_node" tilt="0" title="Black Honey - Бар"/>
+      <hotspot url="{node5}" description="" pan="63.9389" id="Point03" distance="3.83858" target="$fwd" skinid="ht_node" tilt="0" title="Вид з вікна"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomfov="40" enabled="1" zoomspeed="2" delay="none" softedge="0" zoomout="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="40" zoomoutpause="1" type="crossdissolve"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" width="1520" height="1520" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" width="1520" height="1520"/>
+      <level preload="0" predecode="0" width="760" height="760"/>
+      <level preload="1" predecode="1" width="380" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="11.2528" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata info="" latitude="49.82209250" source="" customnodeid="" streetviewlink="https://www.google.com/maps/@49.8220925,23.9923275,3a,75y,11.25h/data=!3m4!1e1!3m2!1sAF1QipNoDNDGKk_mXZwrcm12rnMQ1OCK53QilnP4zBVG!2e10" description="Black Honey - Бар" heading="11.2528" comment="" nodeid="node4" copyright="" tags="" title="Black Honey - Бар" longitude="23.99232745" datetime="" author=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" textcolor="0x000000" textalpha="1" border="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" width="180" height="20" background="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node7}" description="" pan="96.1217" id="Point01" distance="2.7104" target="$fwd" skinid="ht_node" tilt="0" title="Стіл для нарад :)"/>
+      <hotspot url="{node3}" description="" pan="187.027" id="Point02" distance="4.00166" target="$fwd" skinid="ht_node" tilt="0" title="Всередині закладу"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomfov="40" enabled="1" zoomspeed="2" delay="none" softedge="0" zoomout="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="40" zoomoutpause="1" type="crossdissolve"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" width="1520" height="1520" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" width="1520" height="1520"/>
+      <level preload="0" predecode="0" width="760" height="760"/>
+      <level preload="1" predecode="1" width="380" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="5.2396" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata info="" latitude="49.82208073" source="" customnodeid="" streetviewlink="https://www.google.com/maps/@49.8220807,23.9922851,3a,75y,5.24h/data=!3m4!1e1!3m2!1sAF1QipM_Fr-9Db3zuBs-ZGiWtU2j5LGpjbICqjrCaMxx!2e10" description="Black Honey - Вид з вікна" heading="5.2396" comment="" nodeid="node5" copyright="" tags="" title="Вид з вікна" longitude="23.99228506" datetime="" author=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" textcolor="0x000000" textalpha="1" border="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" width="180" height="20" background="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node3}" description="" pan="-129.083" id="Point01" distance="3.83858" target="$fwd" skinid="ht_node" tilt="0" title="Всередині закладу"/>
+      <hotspot url="{node7}" description="" pan="-7.17556" id="Point02" distance="1.58831" target="$fwd" skinid="ht_node" tilt="0" title="Стіл для нарад :)"/>
+      <hotspot url="{node2}" description="" pan="155.612" id="Point03" distance="3.97319" target="$fwd" skinid="ht_node" tilt="0" title="Літній майданчик"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomfov="40" enabled="1" zoomspeed="2" delay="none" softedge="0" zoomout="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="40" zoomoutpause="1" type="crossdissolve"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510" overlap="1" width="1520" height="1520" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" width="1520" height="1520"/>
+      <level preload="0" predecode="0" width="760" height="760"/>
+      <level preload="1" predecode="1" width="380" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="181.231" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata info="" latitude="49.82209468" source="" customnodeid="" streetviewlink="https://www.google.com/maps/@49.8220947,23.9922898,3a,75y,181.23h/data=!3m4!1e1!3m2!1sAF1QipN5iHX6QscEs7UsDk02ZGbz6sNmAdsH1df_1Lee!2e10" description="Black Honey - Стіл для нарад" heading="181.231" comment="" nodeid="node7" copyright="" tags="" title="Стіл для нарад :)" longitude="23.99228982" datetime="" author=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" textcolor="0x000000" textalpha="1" border="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" width="180" height="20" background="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node4}" description="" pan="86.0999" id="Point01" distance="2.7104" target="$fwd" skinid="ht_node" tilt="0" title="Black Honey - Бар"/>
+      <hotspot url="{node5}" description="" pan="348.816" id="Point02" distance="1.58831" target="$fwd" skinid="ht_node" tilt="0" title="Вид з вікна"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomfov="40" enabled="1" zoomspeed="2" delay="none" softedge="0" zoomout="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="40" zoomoutpause="1" type="crossdissolve"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" contextvr="1" simulatemass="1" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" copyright="" tags="" title="Black Honey - Кульпарківська" description="мережа кавʼярень у Львові" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
