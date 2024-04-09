@@ -166,13 +166,13 @@ body {
 /* Additional media query for responsiveness */
 @media (max-width: 768px) {
     .arrow {
-        padding: 5px 10px; /* Smaller padding for smaller screens */
+        padding: 15px 15px; /* Smaller padding for smaller screens */
     }
 }
 
 /* Additional media query for responsiveness */
 @media (max-width: 768px) {
     .circle {
-        padding: 5px 10px; /* Smaller padding for smaller screens */
+        padding: 15px 15px; /* Smaller padding for smaller screens */
     }
 }
