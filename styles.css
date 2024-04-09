@@ -114,34 +114,44 @@ body {
 /* Common styles for arrows */
 .arrow {
     background-color: #333;
-    color: #eeeeee;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 70px;
+    color: #ddd;
+    padding: 15px 15px;
+    border: black;
+    border-radius: 15px;
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
     transition: background-color 0.5s ease-in-out;
+}
+
+.arrow:hover {
+    color: black;
+    background-color: #444; /* Black background on hover */
 }
 
 .circle {
     background-color: #333;
     color: #eeeeee;
-    padding: 10px 10px;
-    border: none;
-    border-radius: 10px;
+    padding: 15px 15px;
+    border: black;
+    border-radius: 15px;
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
     transition: background-color 0.5s ease-in-out;
 }
 
+.circle:hover {
+    color: black;
+    background-color: #444; /* Black background on hover */
+}
+
 /* Container styles */
 .arrows-container {
     height: 30px; /* Adjust the height as needed */
-    line-height: 40px; /* Aligns the arrows vertically */
+    line-height: 30px; /* Aligns the arrows vertically */
     align-content: center;
-    background-color: #000;
+    background-color: #111;
 }
 
 /* Specific styles for alignment */
