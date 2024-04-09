@@ -2,6 +2,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background-color: #bbbbbb;
 }
 
 .header {
@@ -107,5 +108,61 @@ body {
     }
     .grid-item {
         width: 100%;
+    }
+}
+
+/* Common styles for arrows */
+.arrow {
+    background-color: #333;
+    color: #eeeeee;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 70px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.5s ease-in-out;
+}
+
+.circle {
+    background-color: #333;
+    color: #eeeeee;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.5s ease-in-out;
+}
+
+/* Container styles */
+.arrows-container {
+    height: 30px; /* Adjust the height as needed */
+    line-height: 40px; /* Aligns the arrows vertically */
+    align-content: center;
+    background-color: #000;
+}
+
+/* Specific styles for alignment */
+.arrow.fas.fa-arrow-left {
+    float: left;
+}
+
+.circle.fas.fa-circle-info {
+    float: right;
+}
+
+/* Additional media query for responsiveness */
+@media (max-width: 768px) {
+    .arrow {
+        padding: 5px 10px; /* Smaller padding for smaller screens */
+    }
+}
+
+/* Additional media query for responsiveness */
+@media (max-width: 768px) {
+    .circle {
+        padding: 5px 10px; /* Smaller padding for smaller screens */
     }
 }
