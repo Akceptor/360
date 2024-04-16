@@ -17,9 +17,9 @@
     <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
       <label border="1" enabled="1" borderradius="1" textcolor="0x000000" textalpha="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" width="180" background="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="Стенд з рослинами" tilt="0" pan="120.957" distance="3.74669" description="" skinid="ht_node" id="Point01" url="{node8}" target="$fwd"/>
-      <hotspot title="Інтерʼєр" tilt="0" pan="101.743" distance="5.96769" description="" skinid="ht_node" id="Point02" url="{node6}" target="$fwd"/>
-      <hotspot title="Стіл для нарад" tilt="0" pan="26.7946" distance="1.27716" description="" skinid="ht_node" id="Point03" url="{node3}" target="$fwd"/>
+      <hotspot title="Стенд з рослинами" tilt="0" pan="90.957" distance="3.74669" description="" skinid="ht_node" id="Point01" url="{node8}" target="$fwd"/>
+      <hotspot title="Інтерʼєр" tilt="0" pan="70.743" distance="5.96769" description="" skinid="ht_node" id="Point02" url="{node6}" target="$fwd"/>
+      <hotspot title="Стіл для нарад" tilt="0" pan="126.7946" distance="1.27716" description="" skinid="ht_node" id="Point03" url="{node3}" target="$fwd"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" zoomin="0" zoomfov="40" zoomoutpause="1" zoomout="0" zoomspeed="2"/>
@@ -43,9 +43,9 @@
     <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
       <label border="1" enabled="1" borderradius="1" textcolor="0x000000" textalpha="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" width="180" background="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="Книжкові полички" tilt="0" pan="248.701" distance="1.27716" description="" skinid="ht_node" id="Point02" url="{node2}" target="$fwd"/>
-      <hotspot title="Стенд з рослинами" tilt="0" pan="181.218" distance="4.04518" description="" skinid="ht_node" id="Point03" url="{node8}" target="$fwd"/>
-      <hotspot title="Інтерʼєр" tilt="0" pan="155.994" distance="5.76941" description="" skinid="ht_node" id="Point04" url="{node6}" target="$fwd"/>
+      <hotspot title="Книжкові полички" tilt="0" pan="278.701" distance="1.27716" description="" skinid="ht_node" id="Point02" url="{node2}" target="$fwd"/>
+      <hotspot title="Стенд з рослинами" tilt="0" pan="191.218" distance="4.04518" description="" skinid="ht_node" id="Point03" url="{node8}" target="$fwd"/>
+      <hotspot title="Інтерʼєр" tilt="0" pan="215.994" distance="5.76941" description="" skinid="ht_node" id="Point04" url="{node6}" target="$fwd"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" zoomin="0" zoomfov="40" zoomoutpause="1" zoomout="0" zoomspeed="2"/>
@@ -69,6 +69,7 @@
     <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
       <label border="1" enabled="1" borderradius="1" textcolor="0x000000" textalpha="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" width="180" background="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="До входу" tilt="0" pan="20" distance="3.41408" description="" skinid="ht_node" id="Point01" url="{node9}" target="$fwd"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" zoomin="0" zoomfov="40" zoomoutpause="1" zoomout="0" zoomspeed="2"/>
@@ -92,9 +93,9 @@
     <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
       <label border="1" enabled="1" borderradius="1" textcolor="0x000000" textalpha="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" width="180" background="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="Стенд з рослинами" tilt="0" pan="9.47064" distance="2.72466" description="" skinid="ht_node" id="Point01" url="{node8}" target="$fwd"/>
-      <hotspot title="Стіл для нарад" tilt="0" pan="48.7207" distance="5.76941" description="" skinid="ht_node" id="Point02" url="{node3}" target="$fwd"/>
-      <hotspot title="Вхід" tilt="0" pan="297.796" distance="5.0505" description="" skinid="ht_node" id="Point03" url="{node9}" target="$fwd"/>
+      <hotspot title="Головне приміщення" tilt="0" pan="27.796" distance="2.72466" description="" skinid="ht_node" id="Point01" url="{node8}" target="$fwd"/>
+      <hotspot title="Стіл для нарад" tilt="0" pan="148.7207" distance="5.76941" description="" skinid="ht_node" id="Point02" url="{node3}" target="$fwd"/>
+      <hotspot title="Вхід" tilt="0" pan="-19" distance="5.0505" description="" skinid="ht_node" id="Point03" url="{node9}" target="$fwd"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" zoomin="0" zoomfov="40" zoomoutpause="1" zoomout="0" zoomspeed="2"/>
@@ -118,11 +119,11 @@
     <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
       <label border="1" enabled="1" borderradius="1" textcolor="0x000000" textalpha="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" width="180" background="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="Coffee to Go" tilt="0" pan="373.389" distance="0.363104" description="" skinid="ht_node" id="Point01" url="{node10}" target="$fwd"/>
-      <hotspot title="Вхід" tilt="0" pan="518.589" distance="2.6386" description="" skinid="ht_node" id="Point02" url="{node9}" target="$fwd"/>
+      <hotspot title="Coffee to Go" tilt="0" pan="423.389" distance="0.363104" description="" skinid="ht_node" id="Point01" url="{node10}" target="$fwd"/>
+      <hotspot title="Вхід" tilt="0" pan="478.589" distance="2.6386" description="" skinid="ht_node" id="Point02" url="{node9}" target="$fwd"/>
       <hotspot title="Стенд з рослинами" tilt="0" pan="225.113" distance="5.34305" description="" skinid="ht_node" id="Point03" url="{node8}" target="$fwd"/>
-      <hotspot title="Інтерʼєр" tilt="0" pan="254.912" distance="4.02561" description="" skinid="ht_node" id="Point04" url="{node6}" target="$fwd"/>
-      <hotspot title="Бар" tilt="0" pan="260.126" distance="0.215111" description="" skinid="ht_node" id="Point05" url="{node11}" target="$fwd"/>
+      <hotspot title="Інтерʼєр" tilt="0" pan="204.912" distance="4.02561" description="" skinid="ht_node" id="Point04" url="{node6}" target="$fwd"/>
+      <hotspot title="Бар" tilt="0" pan="0.126" distance="0.215111" description="" skinid="ht_node" id="Point05" url="{node11}" target="$fwd"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" zoomin="0" zoomfov="40" zoomoutpause="1" zoomout="0" zoomspeed="2"/>
@@ -146,8 +147,8 @@
     <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
       <label border="1" enabled="1" borderradius="1" textcolor="0x000000" textalpha="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" width="180" background="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="Стіл для нарад" tilt="0" pan="54.3491" distance="4.04518" description="" skinid="ht_node" id="Point01" url="{node3}" target="$fwd"/>
-      <hotspot title="Інтерʼєр" tilt="0" pan="169.875" distance="2.72466" description="" skinid="ht_node" id="Point02" url="{node6}" target="$fwd"/>
+      <hotspot title="Стіл для нарад" tilt="0" pan="124.3491" distance="4.04518" description="" skinid="ht_node" id="Point01" url="{node3}" target="$fwd"/>
+      <hotspot title="Квіти та кавове приладдя" tilt="0" pan="179.875" distance="2.72466" description="" skinid="ht_node" id="Point02" url="{node6}" target="$fwd"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" zoomin="0" zoomfov="40" zoomoutpause="1" zoomout="0" zoomspeed="2"/>
@@ -172,6 +173,7 @@
       <label border="1" enabled="1" borderradius="1" textcolor="0x000000" textalpha="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" width="180" background="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
       <hotspot title="Літні столики" tilt="0" pan="100.449" distance="7.41408" description="" skinid="ht_node" id="Point01" url="{node5}" target="$fwd"/>
+      <hotspot title="Всередину" tilt="0" pan="0" distance="3.41408" description="" skinid="ht_node" id="Point02" url="{node10}" target="$fwd"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" zoomin="0" zoomfov="40" zoomoutpause="1" zoomout="0" zoomspeed="2"/>
@@ -195,11 +197,11 @@
     <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
       <label border="1" enabled="1" borderradius="1" textcolor="0x000000" textalpha="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" width="180" background="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="Вхід" tilt="0" pan="514.961" distance="2.94406" description="" skinid="ht_node" id="Point01" url="{node9}" target="$fwd"/>
+      <hotspot title="Вхід" tilt="0" pan="104.961" distance="2.94406" description="" skinid="ht_node" id="Point01" url="{node9}" target="$fwd"/>
       <hotspot title="Інтерʼєр" tilt="0" pan="242.901" distance="4.21085" description="" skinid="ht_node" id="Point02" url="{node6}" target="$fwd"/>
-      <hotspot title="Бар" tilt="0" pan="209.525" distance="0.489708" description="" skinid="ht_node" id="Point03" url="{node11}" target="$fwd"/>
-      <hotspot title="Стенд з рослинами" tilt="0" pan="215.514" distance="5.65513" description="" skinid="ht_node" id="Point04" url="{node8}" target="$fwd"/>
-      <hotspot title="Кондитерка" tilt="0" pan="185.725" distance="0.363104" description="" skinid="ht_node" id="Point05" url="{node7}" target="$fwd"/>
+      <hotspot title="Бар" tilt="0" pan="0.525" distance="0.489708" description="" skinid="ht_node" id="Point03" url="{node11}" target="$fwd"/>
+      <hotspot title="Стенд з рослинами" tilt="0" pan="275.514" distance="5.65513" description="" skinid="ht_node" id="Point04" url="{node8}" target="$fwd"/>
+      <hotspot title="Кондитерка" tilt="0" pan="345.725" distance="0.363104" description="" skinid="ht_node" id="Point05" url="{node7}" target="$fwd"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" zoomin="0" zoomfov="40" zoomoutpause="1" zoomout="0" zoomspeed="2"/>
@@ -223,9 +225,9 @@
     <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
       <label border="1" enabled="1" borderradius="1" textcolor="0x000000" textalpha="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" width="180" background="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="Кондитерка" tilt="0" pan="359.612" distance="0.215111" description="" skinid="ht_node" id="Point01" url="{node7}" target="$fwd"/>
-      <hotspot title="Coffee to Go" tilt="0" pan="316.675" distance="0.489708" description="" skinid="ht_node" id="Point02" url="{node10}" target="$fwd"/>
-      <hotspot title="Місця для гостей" tilt="0" pan="179.612" distance="0.430222" description="" skinid="ht_node" id="Point03" url="{node12}" target="$fwd"/>
+      <hotspot title="Кондитерка" tilt="0" pan="329.612" distance="0.215111" description="" skinid="ht_node" id="Point01" url="{node7}" target="$fwd"/>
+      <hotspot title="Coffee to Go" tilt="0" pan="296.675" distance="0.489708" description="" skinid="ht_node" id="Point02" url="{node10}" target="$fwd"/>
+      <hotspot title="Ближче до бару" tilt="0" pan="0.612" distance="0.430222" description="" skinid="ht_node" id="Point03" url="{node12}" target="$fwd"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" zoomin="0" zoomfov="40" zoomoutpause="1" zoomout="0" zoomspeed="2"/>
@@ -249,9 +251,8 @@
     <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
       <label border="1" enabled="1" borderradius="1" textcolor="0x000000" textalpha="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" width="180" background="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot title="Coffee to Go" tilt="0" pan="103.871" distance="0.856382" description="" skinid="ht_node" id="Point01" url="{node10}" target="$fwd"/>
-      <hotspot title="Вхід" tilt="0" pan="192.39" distance="2.83898" description="" skinid="ht_node" id="Point02" url="{node9}" target="$fwd"/>
-      <hotspot title="Стенд з рослинами" tilt="0" pan="-92.6143" distance="4.82873" description="" skinid="ht_node" id="Point03" url="{node8}" target="$fwd"/>
+      <hotspot title="Coffee to Go" tilt="0" pan="203.871" distance="0.856382" description="" skinid="ht_node" id="Point01" url="{node10}" target="$fwd"/>
+      <hotspot title="Вхід" tilt="0" pan="212.39" distance="2.83898" description="" skinid="ht_node" id="Point02" url="{node9}" target="$fwd"/>
     </hotspots>
     <media>
       <webelement stretch="2.000" hidepinned="0" fov="19.530" popbackmode="0" tilt="-32.870" height="1000" handcursor="1" pan="4.030" rotx="58.210" width="1000" rotz="1.010" code="&lt;a href=&quot;https://expz.menu/ee598ab8-2283-46d9-b39c-c237bc04736c&quot;>Меню&lt;/a>" clickmode="0" id="Меню закладу" roty="7.340"/>
