@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20035" appversion="7.0.12" start="node13">
+  <panorama id="node17">
+    <input height="6080" overlap="1" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="6080" levelbiashidpi="1.000" levelingpitch="0">
+      <level predecode="0" width="6080" height="6080" preload="0"/>
+      <level predecode="0" width="3040" height="3040" preload="0"/>
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-272" fovmode="2">
+      <start pan="176.347" fov="100" tilt="0.459189" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata altitude="323.04" title="Мезе&amp;Wine - прохід з Краківської" customnodeid="" latitude="49.84421289" datetime="2024:05:18 10:18:28" author="" info="" source="" heading="-272" longitude="24.02951491" nodeid="node17" comment="" copyright="" tags="Мезе&amp;Wine" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" background="1" border="1" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textalpha="1" bordercolor="0x000000" borderalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - Вхід" url="{node13}" skinid="ht_node" distance="29.8699" id="Point01" pan="-191.088" tilt="0.16" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" delay="none" zoomafterinfov="140" enabled="1" zoomin="0" zoomout="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" softedge="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextvr="1" rubberband="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="6080" overlap="1" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="6080" levelbiashidpi="1.000" levelingpitch="0">
+      <level predecode="0" width="6080" height="6080" preload="0"/>
+      <level predecode="0" width="3040" height="3040" preload="0"/>
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-94" fovmode="2">
+      <start pan="-90.0504" fov="101.584" tilt="15.7687" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata altitude="321.55" title="Мезе&amp;Wine - Вхід" customnodeid="" latitude="49.844189" datetime="2024:05:18 10:18:19" author="" info="" source="" heading="-94" longitude="24.029100" nodeid="node13" comment="" copyright="" tags="Мезе&amp;Wine" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" background="1" border="1" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textalpha="1" bordercolor="0x000000" borderalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" pan="-89.5511" title="Мезе&amp;Wine - Зала" url="{node9}" target="$fwd" skinid="ht_node" tilt="2.88" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" delay="none" zoomafterinfov="140" enabled="1" zoomin="0" zoomout="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" softedge="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextvr="1" rubberband="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1520" overlap="1" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="1520" levelbiashidpi="1.000" levelingpitch="0">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-175" fovmode="2">
+      <start pan="-33.8897" fov="100" tilt="2.87441" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata title="Мезе&amp;Wine - велика зала (біля вікна)" customnodeid="" latitude="49.84422870" datetime="2024:05:18 10:17:44" author="" info="" source="" heading="-175" longitude="24.02906567" nodeid="node2" comment="" copyright="" tags="Мезе&amp;Wine" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" background="1" border="1" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textalpha="1" bordercolor="0x000000" borderalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - велика зала" url="{node4}" skinid="ht_node" distance="2.21167" id="Point01" pan="-197.81" tilt="-4.21" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" delay="none" zoomafterinfov="140" enabled="1" zoomin="0" zoomout="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" softedge="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextvr="1" rubberband="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="1520" overlap="1" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="1520" levelbiashidpi="1.000" levelingpitch="0">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-174.203" fov="100" tilt="4.32237" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata title="Мезе&amp;Wine - мала зала" customnodeid="" latitude="49.84425205" datetime="2024:05:18 10:18:00" author="" info="" source="" heading="0" longitude="24.02911797" nodeid="node6" comment="" copyright="" tags="Мезе&amp;Wine" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" background="1" border="1" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textalpha="1" bordercolor="0x000000" borderalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - Бар" url="{node7}" skinid="ht_node" distance="2.06478" id="Point01" pan="97.854" tilt="-5" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" delay="none" zoomafterinfov="140" enabled="1" zoomin="0" zoomout="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" softedge="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextvr="1" rubberband="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1520" overlap="1" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="1520" levelbiashidpi="1.000" levelingpitch="0">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="166" fovmode="2">
+      <start pan="-62.7981" fov="100" tilt="1.76769" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata title="Мезе&amp;Wine - велика зала" customnodeid="" latitude="49.84424859" datetime="2024:05:18 10:17:52" author="" info="" source="" heading="166" longitude="24.02906567" nodeid="node4" comment="" copyright="" tags="Мезе&amp;Wine" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" background="1" border="1" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textalpha="1" bordercolor="0x000000" borderalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - велика зала (біля вікна)" url="{node2}" skinid="ht_node" distance="2.21167" id="Point01" pan="346.81" tilt="-6.05" description=""/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - Бар" url="{node7}" skinid="ht_node" distance="2.00788" id="Point02" pan="82.7165" tilt="-0.36" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" delay="none" zoomafterinfov="140" enabled="1" zoomin="0" zoomout="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" softedge="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextvr="1" rubberband="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="1520" overlap="1" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="1520" levelbiashidpi="1.000" levelingpitch="0">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-88" fovmode="2">
+      <start pan="-178.327" fov="100" tilt="-10.475" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata title="Мезе&amp;Wine - Бар" customnodeid="" latitude="49.84424340" datetime="2024:05:18 10:18:05" author="" info="" source="" heading="-88" longitude="24.02909249" nodeid="node7" comment="" copyright="" tags="Мезе&amp;Wine" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" background="1" border="1" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textalpha="1" bordercolor="0x000000" borderalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - мала зала" url="{node6}" skinid="ht_node" distance="2.06478" id="Point01" pan="-99.076" tilt="-6.71" description=""/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - Зала" url="{node9}" skinid="ht_node" distance="2.65536" id="Point02" pan="-282.184" tilt="-4.87" description=""/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - велика зала" url="{node4}" skinid="ht_node" distance="2.00788" id="Point03" pan="-7.21349" tilt="0.49" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" delay="none" zoomafterinfov="140" enabled="1" zoomin="0" zoomout="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" softedge="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextvr="1" rubberband="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="1520" overlap="1" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="1520" levelbiashidpi="1.000" levelingpitch="0">
+      <level predecode="0" width="1520" height="1520" preload="0"/>
+      <level predecode="0" width="760" height="760" preload="0"/>
+      <level predecode="1" width="380" height="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="63.8648" fov="100" tilt="-3.29525" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="140" tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata altitude="314.05" title="Мезе&amp;Wine - Зала" customnodeid="" latitude="49.84421983" datetime="2024:05:18 10:18:10" author="" info="" source="" heading="0" longitude="24.02909844" nodeid="node9" comment="" copyright="" tags="Мезе&amp;Wine" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderradius="1" background="1" border="1" wordwrap="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textalpha="1" bordercolor="0x000000" borderalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - Бар" url="{node7}" skinid="ht_node" distance="2.65536" id="Point01" pan="52.1661" tilt="-0.82" description=""/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - мала зала" url="{node6}" skinid="ht_node" distance="3.84668" id="Point02" pan="-293.01" tilt="-8.46" description=""/>
+      <hotspot target="$fwd" title="Мезе&amp;Wine - Вхід" url="{node13}" skinid="ht_node" distance="3.42996" id="Point03" pan="-91.1311" tilt="-0.46" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" delay="none" zoomafterinfov="140" enabled="1" zoomin="0" zoomout="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" softedge="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control speedwheel="1" invertcontrol="1" hideabout="0" lockedkeyboard="0" lockedmouse="0" simulatemass="1" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextvr="1" rubberband="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" title="Мезе&amp;Wine" author="" copyright="" comment="" description="Грецька кухня та вино"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
